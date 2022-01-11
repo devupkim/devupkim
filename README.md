@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ### TaeHyun Kim
 ---   
-웹, 앱, 게임, 머신러닝 등 다양한 분야에 관심을 갖고 공부를 즐기며 성장하는 (예비) 엔지니어입니다   
+Web/Mobile, Game, Machine Learning 등 다양한 분야에 관심을 두고   
+공부를 즐기며 성장하는 예비 엔지니어입니다.   
+많은 사람들에게 유익한 것을 만드는 것을 좋아합니다 :)
 
 <!--[![My_Tech_Blog](https://user-images.githubusercontent.com/56679417/131844478-fbebaadd-bdd1-4f34-9763-70df7a0a0883.png)](https://devupkim.github.io/)(블로그는 세팅 중...)   
 -->
