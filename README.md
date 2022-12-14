@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-웹, 앱, 게임 등 다양한 분야에 관심을 갖고 공부를 즐기며 성장하는 소프트웨어 엔지니어입니다.
+웹, 앱, 게임 등 다양한 분야에 관심을 갖고 공부를 즐기며 성장하는 소프트웨어 엔지니어입니다
 
 [![My_Tech_Blog](https://user-images.githubusercontent.com/56679417/131844478-fbebaadd-bdd1-4f34-9763-70df7a0a0883.png)](https://devupkim.github.io/)
 
